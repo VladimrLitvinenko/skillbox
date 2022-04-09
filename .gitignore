@@ -1,0 +1,3 @@
+file_ignored_by_git.py
+ignored_directory/
+!ignored_directory/non_ignored_file.py
