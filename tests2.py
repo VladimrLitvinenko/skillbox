@@ -4,7 +4,7 @@ x1 = 10
 
 y1 = 20
 
-print("\nВведите вторую точку")
+print("\nВведите втору data is changed locally ю точку")
 
 x2 = 15
 
