@@ -4,7 +4,7 @@ x1 = 10
 
 y1 = 20
 
-print("\nВведите втору data is changed locally GIT LOCALLY")
+print("\nВведите втору data is changed locally GIT LOCALLY y")
 
 x2 = 15
 
