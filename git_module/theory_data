@@ -22,3 +22,4 @@ git remote -v - сможем увидить с каким репозиторие
 git remote remove origin - сможем удалить репозиторий
 git checkout -b name_of_branch - create new branch
 git checkout name_of_branch - switch to a branch
+git branch - to see all of our branches
