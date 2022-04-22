@@ -28,4 +28,5 @@ git checkout name_of_branch - switch to a branch
 git branch - to see all of our branches
 git remote -v - to see all remote branges
 git diff - allow to see changes that were not committed yet
-git restore <path to file> - allows to remove non-commited changes
+git restore <path to file> - allows to remove non-commited changes of particular file
+git reset --hard - allows to remove non commited all files
