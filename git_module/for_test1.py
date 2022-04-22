@@ -1,1 +1,1 @@
-print("I am for test 2")
+print("I am for 2")
