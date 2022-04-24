@@ -1,5 +1,6 @@
 {
   "name": "Vova",
   "surname": "Litv",
-  "version": 2
+  "version": 3,
+  "data": "additional data"
 }

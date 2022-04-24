@@ -2,3 +2,4 @@ file_ignored_by_git.py
 ignored_directory/
 loop/
 !ignored_directory/non_ignored_file.py
+git_file.py
